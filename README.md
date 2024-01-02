@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and learning languages 
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on with HER.
-- 📫 chetanpawar564@gmail.com , Instagram- chetan_pawar46
+- 📫 chetanpawar564@gmail.com , Instagram- chetans.infe
 
 <!---
 JARRY46/JARRY46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
